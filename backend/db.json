@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "id": 4,
+      "name": "Lapis Preto Básico",
+      "price": "2.00"
+    },
+    {
+      "name": "Veio do formulário",
+      "price": "9.99",
+      "id": 5
+    }
+  ]
+}
